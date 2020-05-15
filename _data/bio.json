@@ -29,14 +29,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
@@ -56,7 +56,7 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Laravel"
       ]
     },
     {
@@ -66,8 +66,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux"
       ]
     }
   ],
