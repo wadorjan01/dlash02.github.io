@@ -75,6 +75,15 @@
   ],
   "education": [
     {
+      "institution": "Illinois Institute of Technology",
+      "area": "Computer Science ",
+      "studyType": "PhD - ABD",
+      "startDate": "1990",
+      "endDate": "1992",
+      "gpa": "3.9",
+      "courses": [ "Software Engineering, Software Metrics, Design of Experiments, Advanced Sofwtare Engineering"
+      ]
+    },   {
       "institution": "University of Waterloo",
       "area": "Computer Science (",
       "studyType": "M.S.",
