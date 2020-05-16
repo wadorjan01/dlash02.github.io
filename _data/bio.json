@@ -6,7 +6,7 @@
     "email": "dlash@aurora.edu",
     "phone": "",
     "website": "https://dlash02.github.io",
-    "summary": "I am a Professor of Computer Science at Aurora University",
+    "summary": "Assitant Professor of Computer Science at Aurora University",
     "location": {
       "address": "347 S Gladstone Ave",
       "postalCode": "60506",
@@ -31,8 +31,6 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -81,16 +79,19 @@
       "startDate": "1990",
       "endDate": "1992",
       "gpa": "3.9",
-      "courses": [ "Software Engineering, Software Metrics, Design of Experiments, Advanced Sofwtare Engineering"
+      "courses": [ "Software Engineering, Software Metrics, Design of Experiments, Advanced Sofwtare Engineering",
+                  "Atrificial Intelligence, Advanced Software Engineering"
       ]
     },   {
       "institution": "University of Waterloo",
-      "area": "Computer Science (",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Software Engineering, Advanced Sofwtare Engineering, Theory of Computing, Programming Languages",
+                  "Atrificial Intelligence, Real-Time Systems, Operating Systems, Computation Complexity, Algorithms Analysis"
       ]
     }
   ],
@@ -103,8 +104,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Software Engineering, Capsstone, Java OOP, Data Structures",
-        "Web Devlopment, Advanced Web Development"
+        "Software Engineering, Capstone, Java OOP, Data Structures",
+        "Web Devlopment, Advanced Web Development, Database, Introduction to Programming, Mobile Development"
       ]
     },
     {
