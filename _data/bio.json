@@ -139,11 +139,11 @@
       "website": "http://www.lucent.com",
       "startDate": "1996-10-1",
       "endDate": "1982-8-1",
-      "summary": "[
+      "summary": [
         "Lead IT Engineer and Software Developer for the IT Department. Evaluated hardware, built business cases, led ",
         "disaster recovery teams, led teams of system admins, built network and system montioring tools, ",
         "evaluated and deployed distributed backup/restore software, led quality assurance teams, and interfaced with IT customers. "
-      ]",
+      ],
       "highlights": [
       ]
     }
