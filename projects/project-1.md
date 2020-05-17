@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/inventory-management.png
+title: AU Nursing Inventory Management
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
@@ -14,7 +14,7 @@ summary: Capstone Project by Nathan Engler, Felipe Nino, John Hoffman, Ben Saber
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/aim.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
@@ -38,7 +38,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [UH Micromouse Website](http://45.55.136.114/~nengler01/NursingScriptFolder/AIM_Documentation.pdf).
 
 
 
