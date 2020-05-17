@@ -122,7 +122,7 @@
       ]
     }, {
       "company": "GE Capital",
-      "position": "Lead ",
+      "position": "IT Director",
       "website": "http://www.lucent.com",
       "startDate": "1996-10-1",
       "endDate": "1997-10-1",
@@ -132,6 +132,19 @@
         "performance tuning, and product evaluation. Engineered 6 HPUX/Oracle Systems Architecture and configuration connected",
         "to an EMC storage array with 600 GB of total data space. ",
         "Led the project to install and industrialize the environment for production that included HP OpenView, ITO, and omni-backup"
+      ]
+    }, {
+      "company": "AT&T Bell Labs",
+      "position": "Member of Technical Staff",
+      "website": "http://www.lucent.com",
+      "startDate": "1996-10-1",
+      "endDate": "1982-8-1",
+      "summary": "[
+        "Lead IT Engineer and Software Developer for the IT Department. Evaluated hardware, built business cases, led ",
+        "disaster recovery teams, led teams of system admins, built network and system montioring tools, ",
+        "evaluated and deployed distributed backup/restore software, led quality assurance teams, and interfaced with IT customers. "
+      ]",
+      "highlights": [
       ]
     }
   ],
@@ -151,14 +164,13 @@
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "AU Organization Involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "AU Computer Science Club Sponsor",
+        "Member, AUCurriculum Evaluation Team"
       ]
     }
   ],
