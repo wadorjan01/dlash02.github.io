@@ -80,14 +80,14 @@
       "endDate": "1992",
       "gpa": "3.9",
       "courses": [ "Software Engineering, Software Metrics, Design of Experiments, Advanced Sofwtare Engineering",
-                  "Atrificial Intelligence, Advanced Software Engineering"
+                  "Atrificial Intelligence, Advanced Software Engineering, Modeling and Simulation"
       ]
     },   {
       "institution": "University of Waterloo",
       "area": "Computer Science",
       "studyType": "M.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "8-1982",
+      "endDate": "10-1983",
       "gpa": "",
       "courses": [
         "Software Engineering, Advanced Sofwtare Engineering, Theory of Computing, Programming Languages",
