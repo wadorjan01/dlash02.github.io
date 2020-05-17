@@ -17,7 +17,7 @@ summary: Capstone Project by Nathan Engler, Felipe Nino, John Hoffman, Ben Saber
   <img class="ui image" src="../images/aim.PNG">
 </div>
 
-Working with The Aurora University Nursing Department, AIM is  a proper inventory management system to track items.
+AIM is a proper inventory management system to track items built specifically for the needs of the Aurora University Nursing Department. 
 5 Major Features
 <ol>
   <li>
@@ -30,10 +30,10 @@ Use a scanner to increase or decrease item stock
 Display current stock of inventory
    </li><li>
 Display trend report to track items used during a specific period of time.
-   </ol>
+  </li> </ol>
 
 
-You can learn more at the [UH Micromouse Website](http://45.55.136.114/~nengler01/NursingScriptFolder/AIM_Documentation.pdf).
+You can learn more at the [AIM Documentation Site](http://45.55.136.114/~nengler01/NursingScriptFolder/AIM_Documentation.pdf).
 
 
 
