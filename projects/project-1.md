@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/inventory-management.png
+image: images/inventory-management2.png
 title: AU Nursing Inventory Management
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
