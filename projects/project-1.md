@@ -33,7 +33,8 @@ Display trend report to track items used during a specific period of time.
   </li> </ol>
 
 
-You can learn more at the [AIM Documentation Site](http://45.55.136.114/~nengler01/NursingScriptFolder/AIM_Documentation.pdf).
+You can learn more at the
+<a href="http://45.55.136.114/~nengler01/NursingScriptFolder/AIM_Documentation.pdf"> AIM Documentation Site </a>.
 
 
 
