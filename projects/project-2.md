@@ -11,7 +11,7 @@ labels:
   - Laravel
   - MySQL
   - GitHub
-summary: A full-stack Laravel and mySQL application that  automatically schedules student nursing internships.
+summary: Example Capstone project. A full-stack Laravel and mySQL application that  automatically schedules student nursing internships.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/nursing.png">
