@@ -16,10 +16,25 @@ summary: A responsive application design to automatically schedule nursing stude
 
 <img class="ui medium right floated rounded image" src="../images/nursing.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+AU’s Nursing spends hours manually assigning clinicals each semester
+This tool  autamatically schedules students to clincal locations and it allows for specific cases.
+This will save valuable time each semester for the Nursing department.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Currently the scheduling process for the Nursing Department is done exclusively on excel spreadsheets. We wanted to leave this process behind and create a Web based application that can easily handle schedule creation, record manipulation, generate reports, autofill class schedule, and provide a clear overview of all schedule details. 
+
+Core functionality:
+<ol>
+  <li>
+    Users should be able to login using a custom login. Any non user not logged in will not be able to view the other pages with precious student data.
+  </li><li>
+  Users should be able to create/delete/edit sites, clinicals, assignments, instructors, students, etc. All of this will be possible using clean and easy to use CRUD pages.
+</li><li>Be able to assign students to clinical sites and lab classes. This should be done either manually or through the automatic assignment function we have implemented for this project.
+</li><li>A user should be able to bulk upload student information for the semester using an acceptable CSV file (excel sheet). Students can be put into a single class or even multiple automatically!
+</li><li>Users should be able to view individual reports of all students, labs, clinicals, and assignments simply by clicking the ‘View’ button. This will detail all important information associated to the selected record. 
+</li></ol>
+
+The tool usese Laravel, mysql and JavaScript.
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Main Documentation: <a href="https://docs.google.com/document/d/1A81BZKhSDrkUNhHy4P1q_K3bNwyQrbsJv1YrVKFPFI0/edit"></i>Tool Documentation</a>
