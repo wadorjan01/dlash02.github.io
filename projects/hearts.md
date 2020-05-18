@@ -13,9 +13,9 @@ labels:
 summary: A good example of the capabilities of WordPress. 
 ---
 
-<img class="ui image" src="images/hearts.PNG"> 
+<img class="ui image" src='images/hearts.PNG'> 
 
-In 2018 CSC2200 learned how to use wordpress. Several students built example sites for this non-for-profit client. 
+In CSC2200 several students participated in learning wordpress and building a site for a non-for-profit client. 
 This site was selected by the client as the one they liked the best. 
 During the summer David finished off the site and made some additional modifications for them. 
 
