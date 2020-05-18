@@ -7,12 +7,14 @@ permalink: projects/gpa
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - javaScipt 
+  - jQuery
+  - CSS
+  - Bootstrap
+summary: A good example of what you can do with skills you learn in CSC2200. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/ppa.png">
+<img class="ui image" src="{{ site.baseurl }}/images/gpa.PNG">
 
 The GPA calculator was originally completed by Eliah Banks, Adam as a summer project. They built it using the skills they learning in CSC2200.  
 <hr>
