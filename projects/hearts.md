@@ -19,4 +19,4 @@ In CSC2200 several students participated in learning wordpress and building a si
 This site was selected by the client as the one they liked the best. 
 During the summer David finished off the site and made some additional modifications for them. 
 
-See the full site on the web at <a href='http://heartsofhope.net'> Hearts of Hope </a>
+See the full site on the web at <a href='http://heartsofhope.net'> Hearts of Hope </a>. 
