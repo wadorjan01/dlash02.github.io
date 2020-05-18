@@ -25,5 +25,6 @@ Here are some of the sites built in CSC2200 that competed
 <ol>
   <li> <a href="http://45.55.136.114/~jbaeza01/heartsofhope/heartsofhopeHP.html"> J. Baez Site </a> </li>
   <li> <a href="http://45.55.136.114/~gchamlagai01/HW6_WEBPAGE/hearts.html"> G. Chamlagai Site </a> </li>
-  <li> <a href="http://45.55.136.114/~cstockton01/HeartsOfHopeHomepage.html"> C. Stockton </a> </li>
+  <li> <a href="http://45.55.136.114/~cstockton01/HeartsOfHopeHomepage.html"> C. Stockton Site </a> </li>
+  <li> <a href="http://45.55.136.114/~rmalatia01/Hearts%20of%20Hope/"> R. Malatia Site </a> </li>
   </ol>
