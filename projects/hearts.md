@@ -15,9 +15,5 @@ summary: David Carpenter built this site after learning about WordPress in CSC22
 
 <img class="ui image" src="images/hearts.PNG">
 
-The GPA calculator was originally completed by Eliah Banks, Adam Dietz as a summer project. They built it using the skills they learning in CSC2200.  
-<hr>
-
-<pre>
-Aurora University  uses this calculator to help students estimate their GPA. 
-© 2020 GitHub, Inc.
+In 2018 CSC2200 learned how to use wordpress. Several students built example sites for this non-for-profit client. 
+This site was selected by the client. During the summer David finished off the site and made some additional modifications for them. 
