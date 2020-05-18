@@ -21,7 +21,7 @@ This tool  autamatically schedules students to clincal locations and it allows f
 This will save valuable time each semester for the Nursing department.
 
 Currently the scheduling process for the Nursing Department is done exclusively on excel spreadsheets. We wanted to leave this process behind and create a Web based application that can easily handle schedule creation, record manipulation, generate reports, autofill class schedule, and provide a clear overview of all schedule details. 
-
+<br />
 Core functionality:
 <ol>
   <li>
@@ -37,4 +37,4 @@ The tool usese Laravel, mysql and JavaScript.
  
 Main Documentation: <a href="https://docs.google.com/document/d/1A81BZKhSDrkUNhHy4P1q_K3bNwyQrbsJv1YrVKFPFI0/edit"></i>Tool Documentation</a>
 <br />
-Live Site: <a hred="http://45.55.136.114:8000/"> Nursing Inventory </a>
+Live Site: <a href="http://45.55.136.114:8000/"> Nursing Inventory </a>
