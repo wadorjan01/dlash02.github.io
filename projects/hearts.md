@@ -10,7 +10,7 @@ labels:
   - wordpress 
   - CSS
   - Bootstrap
-summary: David Carpenter built this site after learning about WordPress in CSC2200. 
+summary: A good example of the capabilities of WordPress. 
 ---
 
 <img class="ui image" src="images/hearts.PNG">
