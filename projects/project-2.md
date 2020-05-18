@@ -18,7 +18,7 @@ summary: A full-stack Laravel and mySQL application that  automatically schedule
 
 AU’s Nursing spends hours manually assigning clinicals each semester
 This tool  autamatically schedules students to clincal locations and it allows for specific cases.
-This will save valuable time each semester for the Nursing department. Developed by David Carpenter, Matthew McCarthy, 
+This will save valuable time each semester for the Nursing department. Developed by David Carpenter, Matthew McCarthy, Chris Stockton and Thomas Slezak.
 
 Currently the scheduling process for the Nursing Department is done exclusively on excel spreadsheets. We wanted to leave this process behind and create a Web based application that can easily handle schedule creation, record manipulation, generate reports, autofill class schedule, and provide a clear overview of all schedule details. 
 <br />
