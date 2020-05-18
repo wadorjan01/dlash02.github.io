@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/gpa.png
-title: Cotton
+image: images/gpa.PNG
+title: AU GPA Calculator
 permalink: projects/gpa
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
