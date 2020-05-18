@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/nursing.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/nursingInternship
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
 labels:
@@ -11,7 +11,7 @@ labels:
   - Laravel
   - MySQL
   - GitHub
-summary: A responsive application design to automatically schedule nursing students.
+summary: A full-stack Laravel and mySQL application that  automatically schedules student nursing internships.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/nursing.png">
@@ -33,8 +33,8 @@ Core functionality:
 </li><li>Users should be able to view individual reports of all students, labs, clinicals, and assignments simply by clicking the ‘View’ button. This will detail all important information associated to the selected record. 
 </li></ol>
 
-The tool usese Laravel, mysql and JavaScript.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The tool usese Laravel, mysql and JavaScript. 
  
 Main Documentation: <a href="https://docs.google.com/document/d/1A81BZKhSDrkUNhHy4P1q_K3bNwyQrbsJv1YrVKFPFI0/edit"></i>Tool Documentation</a>
+<br />
+Live Site: <a hred="http://45.55.136.114:8000/"> Nursing Inventory </a>
