@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/nursing.png
-title: Vacay
+title: Nursing Internship Scheduler
 permalink: projects/nursingInternship
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
