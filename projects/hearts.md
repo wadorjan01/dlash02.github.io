@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hearts.PNG
 title: Hearts of Hope WordPress Site
-permalink: projects/gpa
+permalink: projects/hearts
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-01
 labels:
