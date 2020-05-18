@@ -35,6 +35,6 @@ Core functionality:
 
 The tool usese Laravel, mysql and JavaScript. 
  
-Main Documentation: <a href="https://docs.google.com/document/d/1A81BZKhSDrkUNhHy4P1q_K3bNwyQrbsJv1YrVKFPFI0/edit"></i>Tool Documentation</a>
+Main Documentation: <a href="https://docs.google.com/document/d/1A81BZKhSDrkUNhHy4P1q_K3bNwyQrbsJv1YrVKFPFI0/edit">Tool Documentation</a>
 <br />
 Live Site: <a href="http://45.55.136.114:8000/"> Nursing Inventory </a>
