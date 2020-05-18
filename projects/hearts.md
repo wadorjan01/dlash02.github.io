@@ -24,5 +24,6 @@ See the full site on the web at <a href='http://heartsofhope.net'> Hearts of Hop
 Here are some of the sites built in CSC2200 that competed
 <ol>
   <li> <a href="http://45.55.136.114/~jbaeza01/heartsofhope/heartsofhopeHP.html"> J. Baez Site </a> </li>
-  <li> <a href="http://45.55.136.114/~gchamlagai01/HW6_WEBPAGE/hearts.html"> G. Chamlagai Site </li>
+  <li> <a href="http://45.55.136.114/~gchamlagai01/HW6_WEBPAGE/hearts.html"> G. Chamlagai Site </a> </li>
+  <li> <a href="http://45.55.136.114/~cstockton01/HeartsOfHopeHomepage.html"> C. Stockton </a> </li>
   </ol>
