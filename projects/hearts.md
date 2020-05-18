@@ -20,3 +20,9 @@ This site was selected by the client as the one they liked the best.
 During the summer David finished off the site and made some additional modifications for them. 
 
 See the full site on the web at <a href='http://heartsofhope.net'> Hearts of Hope </a>. 
+
+Here are some of the sites built in CSC2200 that competed
+<ol>
+  <li> http://45.55.136.114/~jbaeza01/heartsofhope/heartsofhopeHP.html </li>
+  <li> http://45.55.136.114/~gchamlagai01/HW6_WEBPAGE/hearts.html </li>
+  </ol>
