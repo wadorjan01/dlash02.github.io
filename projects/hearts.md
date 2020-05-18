@@ -16,4 +16,5 @@ summary: David Carpenter built this site after learning about WordPress in CSC22
 <img class="ui image" src="images/hearts.PNG">
 
 In 2018 CSC2200 learned how to use wordpress. Several students built example sites for this non-for-profit client. 
-This site was selected by the client. During the summer David finished off the site and made some additional modifications for them. 
+This site was selected by the client as the one they liked the best. 
+During the summer David finished off the site and made some additional modifications for them. 
