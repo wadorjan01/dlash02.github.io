@@ -14,7 +14,7 @@ labels:
 summary: A good example of what you can do with skills you learn in CSC2200. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/gpa.PNG">
+<img class="ui image" src="images/gpa.PNG">
 
 The GPA calculator was originally completed by Eliah Banks, Adam as a summer project. They built it using the skills they learning in CSC2200.  
 <hr>
