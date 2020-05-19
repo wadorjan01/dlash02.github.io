@@ -14,10 +14,11 @@ labels:
 summary: A good example of what you can do with skills you learn in CSC2200. 
 ---
 
-<img class="ui image" src="images/gpa.PNG">
+<img class="ui image" src="../mages/gpa.PNG">
 
-The GPA calculator was originally completed by Eliah Banks, Adam Dietz as a summer project. They built it using the skills they learning in CSC2200.  
+The GPA calculator was originally completed by Eliah Banks, Adam Dietz 
+as a summer project. They built it using the skills they learning in 
+CSC2200.  The tool uses JQuery and Bootstrap to make the calculator work.
 <hr>
 
-<pre>
-Aurora University  uses this calculator to help students estimate their GPA. 
+Aurora University  GPA calculator was done working with the Acedemic Support center.
