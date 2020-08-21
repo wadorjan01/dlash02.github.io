@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "David Lash",
+    "name": "David A. Lash",
     "label": "Professor",
     "picture": "https://dlash02.github.io/images/david-lash.jpg",
     "email": "dlash@aurora.edu",
     "phone": "",
     "website": "https://dlash02.github.io",
-    "summary": "Assistant Professor of Computer Science at Aurora University",
+    "summary": "Assistant Professor of Computer Science" ,
     "location": {
       "address": "347 S Gladstone Ave",
       "postalCode": "60506",
@@ -57,6 +57,7 @@
         "Javascript",
         "Jquery",
         "BootStrap",
+        "node.js",
         "Laravel"
       ]
     },
